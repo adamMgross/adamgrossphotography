@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adam's Photography
+title: Joshua Tree Photography
 bg: black
 color: white
 ---
