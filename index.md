@@ -12,6 +12,7 @@ color: white
 * [Alaska](/alaska)
 * [Hawaii](/hawaii)
 * [American Deserts](/american_deserts)
+* [Colorado](/colorado)
 * [Full List by Location](/locations)
 * [Flickr Profile](https://flickr.com/people/153383938@N03/)
 
